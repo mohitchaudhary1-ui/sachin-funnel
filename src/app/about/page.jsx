@@ -133,7 +133,7 @@ export default function AboutPage() {
               {/* IMAGE */}
               <div className="overflow-hidden rounded-[30px] border border-[#D4AF37]/10">
                 <img
-                  src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=1200&auto=format&fit=crop"
+                  src="/images/hero.jpeg"
                   alt="mentor"
                   className="h-full w-full object-cover transition duration-700 hover:scale-105"
                 />
@@ -142,7 +142,7 @@ export default function AboutPage() {
               {/* CONTENT */}
               <div className="mt-7">
                 <h2 className="text-4xl font-black text-white">
-                  Your Brand Name
+                  Sachin
                 </h2>
 
                 <p className="mt-4 text-lg leading-relaxed text-zinc-400">
