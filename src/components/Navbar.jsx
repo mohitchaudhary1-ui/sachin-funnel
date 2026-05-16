@@ -59,7 +59,7 @@ export default function Navbar() {
 
             <div>
               <h1 className="text-xl font-semibold tracking-tight text-white">
-                Humgence
+                Sachin 
               </h1>
 
               <p className="text-sm text-zinc-400">
