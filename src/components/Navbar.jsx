@@ -63,7 +63,7 @@ export default function Navbar() {
               </h1>
 
               <p className="text-sm text-zinc-400">
-                AI + Digital Marketing
+                English & Maths Coach
               </p>
             </div>
           </motion.div>
