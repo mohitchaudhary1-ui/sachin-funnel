@@ -52,7 +52,7 @@ const workshops = [
     ],
     ideal:
       "Ideal for: Students who want complete subject improvement",
-    href: "/combined-batch",
+    href: "#",
     image:
       "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop",
   },

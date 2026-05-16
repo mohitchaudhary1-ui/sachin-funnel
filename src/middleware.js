@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 export function middleware(req) {
   const token =
-    req.cookies.get("admin-auth");
+    req.cookies.get("admin-auth")?.value;
 
   const pathname =
     req.nextUrl.pathname;
